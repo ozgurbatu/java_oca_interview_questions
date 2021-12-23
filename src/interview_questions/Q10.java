@@ -33,8 +33,9 @@ public class Q10 {
 			}
 
 		}
-		System.out.println("Listenizde yazdiginiz tekrarli sayilar silinmis hali ile : "+list);
-
-	}
+		System.out.println("Listenizde yazdiginiz tekrarli sayilar silinmis hali ile : " + list);
+	
+	
+}
 
 }
